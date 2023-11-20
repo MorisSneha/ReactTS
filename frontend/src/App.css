@@ -1,0 +1,4 @@
+.job_entry_view .job_entry_card_box {
+  width: 100% !important;
+  max-width: 830px;
+}
